@@ -1,6 +1,6 @@
-import UIKit
-import Cocoa
+
+//import cocoa
 var str = "Hello, playground"
 
-class abc:   
-
+var and = "bas"
+print (and)
